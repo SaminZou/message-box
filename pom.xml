@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xmlns="http://maven.apache.org/POM/4.0.0"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.samin</groupId>
     <artifactId>message-box</artifactId>
     <version>1.0.0</version>
 
     <modules>
-        <!--        <module>message-box-sdk</module>-->
-        <module>message-box-server</module>
-        <!--        <module>message-box-admin</module>-->
+        <module>mbox-sdk</module>
+        <module>mbox-server</module>
+        <module>mbox-message</module>
+        <module>mbox-admin</module>
     </modules>
 
     <packaging>pom</packaging>

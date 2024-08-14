@@ -4,9 +4,9 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MessageBoxServer {
+public class MBoxMessage {
 
     public static void main(String[] args) {
-        SpringApplication.run(MessageBoxServer.class, args);
+        SpringApplication.run(MBoxMessage.class, args);
     }
 }
