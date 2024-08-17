@@ -10,9 +10,9 @@
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>mbox-message</artifactId>
-    <name>mbox-message</name>
-    <description>mbox-message</description>
+    <artifactId>mbox-domain-message</artifactId>
+    <name>mbox-domain-message</name>
+    <description>mbox-domain-message</description>
 
     <dependencies>
         <dependency>

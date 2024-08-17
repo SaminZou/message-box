@@ -1,12 +1,12 @@
-package com.samin.server;
+package com.samin.mbox.message;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MBoxServer {
+public class MBoxMessage {
 
     public static void main(String[] args) {
-        SpringApplication.run(MBoxServer.class, args);
+        SpringApplication.run(MBoxMessage.class, args);
     }
 }
