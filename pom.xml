@@ -11,6 +11,8 @@
         <module>mbox-application-server</module>
         <module>mbox-application-admin</module>
         <module>mbox-domain-message</module>
+        <module>mbox-domain-system</module>
+        <module>mbox-domain-log</module>
         <module>mbox-common</module>
         <module>mbox-sdk</module>
     </modules>
