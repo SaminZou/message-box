@@ -13,6 +13,9 @@
         <module>mbox-domain-message</module>
         <module>mbox-domain-system</module>
         <module>mbox-domain-log</module>
+        <module>mbox-domain-message-api</module>
+        <module>mbox-domain-system-api</module>
+        <module>mbox-domain-log-api</module>
         <module>mbox-common</module>
         <module>mbox-sdk</module>
     </modules>
