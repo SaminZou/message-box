@@ -6,13 +6,13 @@
 
     <parent>
         <groupId>com.samin</groupId>
-        <artifactId>message-box</artifactId>
+        <artifactId>mbox-domain</artifactId>
         <version>1.0.0</version>
     </parent>
 
-    <artifactId>mbox-domain-message</artifactId>
-    <name>mbox-domain-message</name>
-    <description>mbox-domain-message</description>
+    <artifactId>mbox-domain-system</artifactId>
+    <name>mbox-domain-system</name>
+    <description>mbox-domain-system</description>
 
     <dependencies>
         <dependency>

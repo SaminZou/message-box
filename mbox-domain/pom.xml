@@ -4,20 +4,16 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.samin</groupId>
-    <artifactId>message-box</artifactId>
+    <artifactId>mbox-domain</artifactId>
     <version>1.0.0</version>
 
     <modules>
-        <module>mbox-application-server</module>
-        <module>mbox-application-admin</module>
         <module>mbox-domain-message</module>
         <module>mbox-domain-system</module>
         <module>mbox-domain-log</module>
         <module>mbox-domain-message-api</module>
         <module>mbox-domain-system-api</module>
         <module>mbox-domain-log-api</module>
-        <module>mbox-common</module>
-        <module>mbox-sdk</module>
     </modules>
 
     <packaging>pom</packaging>

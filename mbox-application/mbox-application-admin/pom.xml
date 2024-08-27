@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>com.samin</groupId>
-        <artifactId>message-box</artifactId>
+        <artifactId>mbox-application</artifactId>
         <version>1.0.0</version>
     </parent>
 
