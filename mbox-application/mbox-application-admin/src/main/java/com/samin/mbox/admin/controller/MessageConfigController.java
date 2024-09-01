@@ -1,2 +1,4 @@
-package com.samin.mbox.admin.controller;public class MessageConfigController {
+package com.samin.mbox.admin.controller;
+
+public class MessageConfigController {
 }
